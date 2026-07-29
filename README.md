@@ -1,6 +1,9 @@
 # Hi 👋, I'm Aditya
 
 ### 💻 Tech Stack
+### *"Building today what I dreamed of yesterday."*
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+Progress;DSA+Enthusiast;Problem+Solver;Creative+Frontend+Developer;Always+Learning+Something+New" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,python" />
