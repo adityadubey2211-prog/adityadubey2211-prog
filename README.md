@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images.openai.com/static-rsc-4/EbSdkUyD7Ymk7wVBZ6miLfTPIG4vmH2M-Nhoca7dn1l_VKVzLsLKVLB70B5ukAg_XVA8cs-uZmpp03lX3tjUKTmMc3Di2w4Ef6Jm3YdsCvZtW73eFH5-V6h54xOV8g00YEWiBxj4fErLwq4i--sj6jAPJijgpuqtnbUi4Q39ALrSmwibkLtVBaWXcy-5br-Q?purpose=fullsize" width="30%"/>
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Aditya Dubey
@@ -10,6 +14,7 @@
 
 </div>
 
+
 ---
 
 ## 🌙 About Me
@@ -21,7 +26,6 @@
 - 🎯 Goal: Become a Software Engineer
 
 ---
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🚀 Tech Stack
@@ -48,7 +52,24 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=adityadubey2211-prog
 <br>
 
 ---
+## 💻 Terminal
 
+```console
+aditya@github:~$ whoami
+Aditya Dubey
+
+aditya@github:~$ skills
+C++ | JavaScript | HTML | CSS | Python | Git
+
+aditya@github:~$ current
+Learning React.js & MERN Stack
+
+aditya@github:~$ goal
+Software Engineer 🚀
+
+aditya@github:~$ echo "Keep Building..."
+Keep Building...
+```
 
 # 💻 Most Used Languages
 
