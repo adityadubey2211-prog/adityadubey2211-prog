@@ -22,69 +22,138 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 # 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,python,react,nodejs,express,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,python,git,github,vscode" />
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityadubey2211-prog&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=adityadubey2211-prog&cc=000&tc=fff&ic=fff&bc=000"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adityadubey2211-prog&theme=tokyonight&hide_border=true"/>
+<img width="49%" height="195px"
+src="https://github-readme-streak-stats.herokuapp.com/?user=adityadubey2211-prog&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<br>
+
 ---
+
 
 # 💻 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadubey2211-prog&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityadubey2211-prog&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 🏆 LeetCode
+# 🧩 LeetCode Stats
 
 <div align="center">
 
+<img src="https://leetcard.jacoblin.cool/AdityaDubey2211?theme=dark&font=Baloo&ext=contest,heatmap"/>
+
+<br>
+
 <a href="https://leetcode.com/u/AdityaDubey2211/">
-<img src="https://leetcard.jacoblin.cool/AdityaDubey2211?theme=dark&font=Nunito&ext=contest"/>
+<img src="https://img.shields.io/badge/LeetCode-AdityaDubey2211-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </div>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 # 📂 Featured Projects
 
-### ✅ Expense Tracker
+<div align="center">
 
-💰 Track income & expenses with charts and clean UI.
+### 💰 ExpenseFlow — Expense Tracker
 
-### ✅ Movie App
+Track income, expenses and savings with a modern financial dashboard.
 
-🎬 Movie search using TMDB API.
+**Tech Stack:**  
+HTML • CSS • JavaScript • LocalStorage
 
-### ✅ To-Do List
+✨ Features:
+- 📊 Income & expense tracking
+- 🌙 Dark mode interface
+- 📈 Financial overview
+- 💾 Persistent local storage
 
-📝 Task management with Local Storage.
-
-### ✅ Portfolio Website
-
-🌐 Personal Portfolio with modern UI.
 
 ---
+
+### 🎬 MovieVerse — Movie Discovery App
+
+A movie exploration app powered by TMDB API.
+
+**Tech Stack:**  
+JavaScript • TMDB API • CSS
+
+✨ Features:
+- 🔍 Search movies
+- 🎞️ Dynamic movie cards
+- ⭐ Ratings & details
+- ⚡ Real-time API fetching
+
+
+---
+
+### 📝 TaskFlow — To-Do Application
+
+A productivity app to organize daily tasks efficiently.
+
+**Tech Stack:**  
+HTML • CSS • JavaScript
+
+✨ Features:
+- ✅ Create & delete tasks
+- 🎯 Priority management
+- 🔎 Task search
+- 💾 LocalStorage support
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+## 🚀 Live Projects
+
+<div align="center">
+
+<a href="https://adityadubey2211-prog.github.io/TO-DO-LIST/">
+<img src="https://img.shields.io/badge/📝%20To--Do%20List-Live%20Demo-blue?style=for-the-badge">
+</a>
+
+<a href="https://adityadubey2211-prog.github.io/expence-flow/">
+<img src="https://img.shields.io/badge/💰%20ExpenseFlow-Live%20Demo-green?style=for-the-badge">
+</a>
+
+<a href="https://adityadubey2211-prog.github.io/Weather-app/">
+<img src="https://img.shields.io/badge/🌦️%20Weather%20App-Live%20Demo-orange?style=for-the-badge">
+</a>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 📈 Contribution Graph
 
@@ -96,6 +165,8 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -105,6 +176,8 @@
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🌐 Connect With Me
 
@@ -126,12 +199,38 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+
+# 🎯 2026 Goals
+
 <div align="center">
 
-### 💭 Quote
+<img src="https://img.shields.io/badge/⚛️%20Master-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 
-> **"Building today what I dreamed of yesterday"**
+<img src="https://img.shields.io/badge/🟢%20Learn-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<img src="https://komarev.com/ghpvc/?username=adityadubey2211-prog&label=Profile+Views&color=7F5AF0&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🍃%20Learn-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/💼%20Build-Full%20Stack%20Projects-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/💯%20Solve-300%2B%20LeetCode%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/🏆%20Goal-Software%20Engineering%20Internship-purple?style=for-the-badge"/>
+
+</div>
+
+---
+### 💭 Developer Quote
+
+*"Building today what I dreamed of yesterday 🚀"*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=adityadubey2211-prog&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
