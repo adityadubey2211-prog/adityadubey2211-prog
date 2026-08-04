@@ -41,12 +41,7 @@
 # 📊 GitHub Analytics
 
 <div align="center">
-
 <img src="https://github-stats-alpha.vercel.app/api?username=adityadubey2211-prog&cc=000&tc=fff&ic=fff&bc=000"/>
-
-<img width="49%" height="195px"
-src="https://github-readme-streak-stats.herokuapp.com/?user=adityadubey2211-prog&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <br>
